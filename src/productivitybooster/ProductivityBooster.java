@@ -8,7 +8,7 @@ public class ProductivityBooster {
 
    
     public static void main(String[] args) {
-          mainMenu start = new mainMenu(); 
+         mainMenu start = new mainMenu(); 
         Toolkit tk = Toolkit.getDefaultToolkit();
         int width =(int) tk.getScreenSize().getWidth();
          int height =(int) tk.getScreenSize().getHeight();
